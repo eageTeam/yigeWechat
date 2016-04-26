@@ -1,4 +1,4 @@
-/*general start*/
+﻿/*general start*/
 body,p,blockquote,figure,hr,h1,h2,h3,h4,h5,h6,ul,menu,dir,ol,dl,dd,fieldset,input[type=radio],input[type=checkbox],input[type=range],pre,xmp,plaintext,listing {
     margin: 0;
 }
@@ -45,6 +45,9 @@ input,textarea,select,button {
 
 select,button,input {
     color: inherit;
+}
+.test {
+    color: #333;
 }
 
 html {
